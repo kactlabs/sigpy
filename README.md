@@ -50,7 +50,7 @@ git commit -m "<change details>"
 
 git push
 
-go to GitHub -> Pages -> Source
+go to GitHub Repository (pynotes) settings -> Pages -> Source
 
 select "Deploy from  branch"
 
